@@ -5,7 +5,7 @@ title: "Join our group!"
 
 ## Postdoctoral Fellows 
 We are hiring a postdoc! [Apply here](../assets/documents/Postdoc_IDEpi_Temple_2023.pdf){:target="_blank"}. If you are partway through your PhD and interested in discussing future projects, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) for an informational meeting.
-<img src="/assets/images/bell_tower.jpg" width="40%" align="right" hspace="30" alt="A picture of campus including the Bell Tower at Temple University">
+<img src="/assets/images/bell_tower.jpg" width="40%" align="right" hspace="30" vspace="20" alt="Photo of campus including the Bell Tower at Temple University">
 ## PhD Students
 We are accepting students in Temple College of Public Health's [Epidemiology PhD](https://www.temple.edu/academics/degree-programs/epidemiology-phd-hp-epid-phd){:target="_blank"} program to start in Fall 2023 or 2024. 
 

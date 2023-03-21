@@ -24,11 +24,11 @@ author:
 author_profile: true
 ---
 
-I'm an infectious disease epidemiologist with a diverse training and research background. I received my PhD in immunology from New York University School of Medicine and then went on to conduct postdoctoral research in spatial epidemiology at the University of Washington (IHME). I completed a second postdoc in sero-epidemiology and infectious disease dynamics at Johns Hopkins Bloomberg School of Public Health.
+I'm an infectious disease epidemiologist with a diverse training and research background. I received my PhD in immunology from New York University School of Medicine and then went on to conduct postdoctoral research in spatial epidemiology at the University of Washington (IHME). I completed a second postdoc in sero-epidemiology and infectious disease dynamics at Johns Hopkins School of Public Health.
 
-My main research focus is better understanding how infectious diseases spread, even when we don't have perfect surveillance data. To do this, I've used a variety of different methods, like geostatistical models to map out where diarrheal diseases are most prevalent, sero-epidemiology to estimate how many people have been exposed to SARS-CoV-2, and household transmission studies to figure out how likely someone is to get cholera.
+My main research focus is better understanding how infectious diseases spread, even when we don't have perfect surveillance data. To do this, I've used a variety of different methods, like geostatistical models to map out where diarrheal diseases are most prevalent, sero-epidemiology to estimate how many people have been exposed to SARS-CoV-2, and household transmission studies to estimate how likely someone is to get cholera.
 
-Right now, I'm working on some really cool collaborative projects to look at how many cases of cholera might be going unobserved by traditional surveillance systems. That could include mild or asymptomatic cases, cases in people who don't have access to healthcare, or cases that just weren't picked up by laboratory tests. If you want to know more, check out our [research page](/research.md)!
+Right now, I'm working on some really cool collaborative projects to look at how many cases of cholera might be going unobserved by traditional surveillance systems. That could include mild or asymptomatic cases, cases in people who don't have access to healthcare, or cases that weren't picked up by laboratory tests. If you want to learn more, check out our [research page](/research.md)!
 
 ## Featured past work
 
@@ -38,7 +38,7 @@ We found that about half of suspected cholera cases that are seen by medical pro
 <a href="https://www.medrxiv.org/content/10.1101/2022.10.05.22280736v1" class="image" target="_blank"><img src="/assets/images/kirsten_wiens_cholera_positivity.jpg" alt="" width = "75%"/>
 
 #### SARS-CoV-2 seroprevalence in Juba, South Sudan
-I led the analysis for a SARS-CoV-2 serosurvey conducted by the Ministry of Health and WHO in Juba. By measuring antibodies in the blood, we found that many more people had been exposed to the virus than previously thought. We also identified a need to validate antibody tests in mild infections and in local populations.
+I led analysis of a SARS-CoV-2 serosurvey conducted by the Ministry of Health and WHO in Juba. By measuring antibodies in the blood, we found that more people had been exposed to the virus than previously thought. We also showed the importance of validating antibody tests locally and for mild infections.
 
 <a href="https://wwwnc.cdc.gov/eid/article/27/6/21-0568_article" class="image" target="_blank"><img src="/assets/images/kirsten_wiens_sarscov2_juba.jpg" alt="" width = "75%"/></a>
 

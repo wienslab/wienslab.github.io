@@ -3,7 +3,7 @@ permalink: /contact/
 title: ""
 ---
 
-<img src="/assets/images/RitterAnnex_9thFloor.jpeg" width="100%" alt="A picture containing the view looking towards downtown Philadelphia at sunset from the Department of Epidemiology and Biostatistics, Temple University">
+<img src="/assets/images/RitterAnnex_9thFloor.jpeg" width="100%" alt="Photo of the view looking towards downtown Philadelphia at sunset from the Department of Epidemiology and Biostatistics, Temple University">
 
 ## Contact
 

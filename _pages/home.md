@@ -9,7 +9,7 @@ header:
   image_description: "Photo of farmland in Great Rift Valley, Ethiopia"
 ---
 
-We use...    :computer:  disease modeling <br/>
+We use...     :computer:  disease modeling <br/>
                      :bar_chart:  sero-epidemiology <br/>
                      :earth_asia:  spatial analysis <br/>  
 

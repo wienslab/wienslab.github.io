@@ -7,7 +7,7 @@ Our goal is to help build *effective* disease mitigation strategies.
 
 Unfortunately, the places that are hit hardest by infectious diseases often also have the spottiest data. These infections can get missed because of:
 
-     :toilet:  mild symptoms or asymptomatic infections <br/>
+     :toilet:  mild or asymptomatic infections <br/>
      :hospital:  barriers to healthcare access <br/>
      🧪  limited testing resources <br/>
 

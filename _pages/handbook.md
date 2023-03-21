@@ -21,7 +21,7 @@ __Communication__: We use Microsoft Teams and email for electronic lab communica
 
 __Social activities & celebrations__: We occasionally have dinners, happy hours, or picnics just because or to celebrate milestones. These are optional and I welcome suggestions for new activities!
 
-__Community service & outreach__: We believe that an important component of our work in public health is giving back to our local communities. Lab members are expected to participate in [community service or outreach activities](https://cph.temple.edu/community-clinics/community-engaged-research-and-practice/upcoming-and-past-events){:target="_blank"}, such as the College of Public Health's __Give Back Day__ where we volunteer with organizations making an impact here in North Philly.
+__Community service & outreach__: Giving back to our local communities is an important part of our work in public health. All lab members participate in [community service or outreach activities](https://cph.temple.edu/community-clinics/community-engaged-research-and-practice/upcoming-and-past-events){:target="_blank"}, such as the College of Public Health's __Give Back Day__ where we volunteer with organizations making an impact here in North Philly.
 
 
 ## Resources
@@ -34,7 +34,7 @@ __Writing code__: Lab members working on quantitative projects are welcome to co
 
 As part of open and reproducible science, I expect lab members who are coding to learn and use GitHub ([GitHub’s starting guide](https://docs.github.com/en/get-started){:target="_blank"} is great). We have a [Wiens Lab GitHub page](https://github.com/wienslab){:target="_blank"} where we fork and keep track of all project-specific code. 
 
-__Writing manuscripts__: I love writing! But I know that not everyone does. My number one piece of advice for lab members is to just get started. Your first draft will be rough and that is OK. With practice, you’ll get better (and faster) at it. 
+__Writing manuscripts__: I love writing! But not everyone does. My number one piece of advice for lab members is to just get started. Your first draft will be rough and that is OK. With practice, you’ll get better (and faster) at it. 
 
 My second piece of advice is to start with a good outline. Whether you’re writing a full scientific manuscript, a manuscript section, or a short report, we’ll send your outline back and forth a few times before I give you the green light to flesh it out.
 
