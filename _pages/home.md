@@ -14,5 +14,3 @@ We use...     :computer:  disease modeling <br/>
                      :earth_asia:  spatial analysis <br/>  
 
 ...to better understand how infectious diseases spread. [Learn more](/research)
-
-__We're hiring!__ Apply for [PostDoc](../assets/documents/Postdoc_IDEpi_Temple_2023.pdf){:target="_blank"} and [PhD student](/jobs.md) positions with our group

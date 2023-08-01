@@ -4,12 +4,10 @@ title: "Join our group!"
 ---
 
 ## Postdoctoral Fellows 
-We are hiring a postdoc! [Apply here](../assets/documents/Postdoc_IDEpi_Temple_2023.pdf){:target="_blank"}. If you are partway through your PhD and interested in discussing future projects, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) for an informational meeting.
+Currently, we do not have postdoctoral positions available. If you are partway through your PhD and interested in discussing future projects, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) for an informational meeting.
 <img src="/assets/images/bell_tower.jpg" width="40%" align="right" hspace="30" vspace="20" alt="Photo of campus including the Bell Tower at Temple University">
 ## PhD Students
-We are accepting students in Temple College of Public Health's [Epidemiology PhD](https://www.temple.edu/academics/degree-programs/epidemiology-phd-hp-epid-phd){:target="_blank"} program to start in Fall 2023 or 2024. 
-
-Please [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) with your CV, relevant experience, and research questions or gaps you want to address in our group.
+Our fully-funded PhD position has been filled. If you have your own funding (e.g., through grants or an employer) and are interested in completing a [PhD in Epidemiology](https://www.temple.edu/academics/degree-programs/epidemiology-phd-hp-epid-phd){:target="_blank"} with us, please [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) with your CV, relevant experience, and research questions or gaps you want to address in our group.
 
 ## MPH and MS students
 When part-time research assistant positions are available, we'll post them here and on Temple University's job boards. 
