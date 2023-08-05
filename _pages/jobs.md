@@ -4,7 +4,7 @@ title: "Join our group!"
 ---
 
 ## Postdoctoral Fellows 
-Currently, we do not have postdoctoral positions available. If you are partway through your PhD and interested in discussing future projects, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) for an informational meeting.
+We currently do not have postdoctoral positions available. If you are partway through your PhD and interested in discussing future projects, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) for an informational meeting.
 <img src="/assets/images/bell_tower.jpg" width="40%" align="right" hspace="30" vspace="20" alt="Photo of campus including the Bell Tower at Temple University">
 ## PhD Students
 Our fully-funded PhD position has been filled. If you have your own funding (e.g., through grants or an employer) and are interested in completing a [PhD in Epidemiology](https://www.temple.edu/academics/degree-programs/epidemiology-phd-hp-epid-phd){:target="_blank"} with us, please [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) with your CV, relevant experience, and research questions or gaps you want to address in our group.

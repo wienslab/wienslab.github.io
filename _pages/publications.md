@@ -97,6 +97,8 @@ Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, V
 
 ### Pre-prints
 
-Wiens KE, Xu H, Zou K, Mwaba J, Lessler J, Malembaka EB, Demby MN, Bwire G, Qadri F, Lee EC, Azman AS. Towards estimating true cholera burden: a systematic review and meta-analysis of Vibrio cholerae positivity. medRxiv 2022.10.05.22280736 (doi: [https://doi.org/10.1101/2022.10.05.22280736](https://doi.org/10.1101/2022.10.05.22280736){:target="_blank"}).
+Wiens KE, Xu H, Zou K, Mwaba J, Lessler J, Malembaka EB, Demby MN, Bwire G, Qadri F, Lee EC, Azman AS. Towards estimating true cholera burden: a systematic review and meta-analysis of Vibrio cholerae positivity. medRxiv 2022.10.05.22280736. [https://doi.org/10.1101/2022.10.05.22280736](https://doi.org/10.1101/2022.10.05.22280736){:target="_blank"}
 
-Xu H, Zou K, Wiens KE, Malembaka EB, Azman, AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. medRxiv 2022.11.25.22282776 (doi: [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}).
+Xu H, Zou K, Wiens KE, Malembaka EB, Azman AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. medRxiv 2022.11.25.22282776. [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}
+
+Hegde ST, Khan AI, Perez-Saez J, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Estimating the gap between clinical cholera and true community infections: findings from an integrated surveillance study in an endemic region of Bangladesh. medRxiv 2023.07.18.23292836. [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}
