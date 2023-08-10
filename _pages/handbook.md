@@ -28,7 +28,7 @@ __Community service & outreach__: Giving back to our local communities is an imp
 
 __Writing code__: Lab members working on quantitative projects are welcome to code in the programming language that they are most comfortable with. I code in R and learned it on-the-job, so I'm very supportive of lab members taking the time to learn it. Here are some free resources for getting started:
 
-* Lessons for all levels in [Code Academy](https://www.codecademy.com/catalog/language/r){:target="_blank"}
+* Lessons for all levels in [Codecademy](https://www.codecademy.com/catalog/language/r){:target="_blank"}
 * Beginner data wrangling in [R for Data Analysis](https://trevorfrench.github.io/R-for-Data-Analysis/){:target="_blank"}
 * Primer and great reference for applied epidemiology in [The Epidemiologist R Handbook](https://epirhandbook.com/en/#r-for-applied-epidemiology-and-public-health){:target="_blank"}
 
