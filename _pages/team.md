@@ -3,21 +3,30 @@ permalink: /team/
 title: "Team"
 ---
 
-<img src="/assets/images/WiensLabMeeting.jpg" width="100%" title="Photo of Wiens Lab Meeting, posed">
-
 ## Lab members
 
-__Ashlynn Solomon__, Student Researcher
+<img src="/assets/images/CecirahimSesay.jpeg" width="60%" title="Cecirahim Sesay Photo">
 
-__Daniel Costello__, Student Researcher
+__Cecirahim Sesay, MPH__ <br>
+PhD Student <br>
+Department of Epidemiology and Biostatistics <br>
+Temple University College of Public Health <br>
+Email: [cecirahim.sesay@temple.edu](mailto:cecirahim.sesay@temple.edu)
 
+<br>
 
-## Future lab members
+<img src="/assets/images/MarissaMiller.jpeg" width="40%" title="Marissa Miller Photo">
 
-🦉 __You!__ <br>
-We are always looking for talented and driven students. <br>
-Check out our [jobs](jobs.md) and [contact us](contact.md)! 
+__Marissa Miller, BPH__ <br>
+Research Assistant <br>
+Department of Epidemiology and Biostatistics <br>
+Temple University College of Public Health <br>
+Email: [marissa.miller0002@temple.edu](mailto:marissa.miller0002@temple.edu)
 
-<img src="/assets/images/WiensLabMeeting2.jpg" width="100%" title="Photo of Wiens Lab Meeting, candid">
+<br>
 
+## Lab alumni
 
+__Daniel Costello__, MPH Student in Global Health Epidemiology and Disease Control, George Washington University
+
+__Ashlynn Solomon__, Clinical Research Coordinator, University of Pennsylvania Health System
