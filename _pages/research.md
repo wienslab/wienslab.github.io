@@ -11,7 +11,7 @@ Unfortunately, the places that are hit hardest by infectious diseases often also
      :hospital:  barriers to healthcare access <br/>
      🧪  limited testing resources <br/>
 
-In our lab, we focus on better understanding these "unobserved" infections in three main areas of research:
+In our lab, we focus on better understanding these "unobserved" infections in two main areas of funded research:
 
 ### I. Understanding the role of mild & asymptomatic infections in cholera transmission
  
@@ -35,9 +35,3 @@ To achieve this goal, we are conducting a systematic review and meta-analysis, w
 
 - The proportion of people with diarrhea that don't seek healthcare <br>
 - The reasons why some people may not seek healthcare
-
-#### III. Improving surveillance & health outcomes in partnership with communities
-
-<img src="/assets/images/PHBB_grupo.jpg" width="40%" align="right" hspace="25" vspace="10">
-Students in our group can join Public Health Beyond Borders at Temple, led by Dr. Graciela Jaschek. This program focuses on understanding and addressing causes of malnutrition in Cusco, Peru. We do this by collaborating with local community and university partners. The program is designed to provide hands-on experience while making a positive impact on the community.
-<img src="/assets/images/PHBB_granja.jpg" width="95%" align="left" vspace="20">
