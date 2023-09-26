@@ -8,8 +8,9 @@ title: "Publications"
 
 ### 2023
 
-Wiens KE†, Iyer AS†, Bhuiyan TR, Lu LL, Cizmeci D, Gorman MJ, Yuan D, Becker RL, Ryan ET, Calderwood SB, LaRocque RC, Chowdhury F, Khan AI, Levine MM, Chen WH, Charles RC, Azman AS, Qadri F, Alter G, Harris JB. (2023). Predicting Vibrio cholerae infection and symptomatic disease: a systems serology study. The Lancet Microbe. [https://doi.org/10.1016/S2666-5247(22)00391-3](https://doi.org/10.1016/S2666-5247(22)00391-3){:target="_blank"}. <br>
-_†Joint first authors_
+Wiens KE, Xu H, Zou K, Mwaba J, Lessler J, Malembaka EB, Demby MN, Bwire G, Qadri F, Lee EC, Azman AS. (2023). Estimating the proportion of clinically suspected cholera cases that are true Vibrio cholerae infections: A systematic review and meta-analysis. PLOS Medicine. 2023(20):e1004286. [https://doi.org/10.1371/journal.pmed.1004286](https://doi.org/10.1371/journal.pmed.1004286){:target="_blank"}
+
+Wiens KE†, Iyer AS†, Bhuiyan TR, Lu LL, Cizmeci D, Gorman MJ, Yuan D, Becker RL, Ryan ET, Calderwood SB, LaRocque RC, Chowdhury F, Khan AI, Levine MM, Chen WH, Charles RC, Azman AS, Qadri F, Alter G, Harris JB. (2023). Predicting Vibrio cholerae infection and symptomatic disease: a systems serology study. The Lancet Microbe. 4(4):e228-e235.  [https://doi.org/10.1016/S2666-5247(22)00391-3](https://doi.org/10.1016/S2666-5247(22)00391-3){:target="_blank"}. _†Joint first authors_
 
 ### 2022
 
@@ -96,8 +97,6 @@ Wiens KE, Swaminathan H, Copin R, Lun DS, Ernst JD. (2013). Equivalent T cell ep
 Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, Vujkovic-Cvijin, Kim CC, Yarovinsky F, Nicholas WL, McCune JM, Loke P. (2012). Therapeutic helminth infection of macaques with idiopathic chronic diarrhea alters the inflammatory signature and mucosal microbiota of the colon. PLOS Pathogens. 8(11):e1003000. [https://doi.org/10.1371/journal.ppat.1003000](https://doi.org/10.1371/journal.ppat.1003000){:target="_blank"}
 
 ### Pre-prints
-
-Wiens KE, Xu H, Zou K, Mwaba J, Lessler J, Malembaka EB, Demby MN, Bwire G, Qadri F, Lee EC, Azman AS. Towards estimating true cholera burden: a systematic review and meta-analysis of Vibrio cholerae positivity. medRxiv 2022.10.05.22280736. [https://doi.org/10.1101/2022.10.05.22280736](https://doi.org/10.1101/2022.10.05.22280736){:target="_blank"}
 
 Xu H, Zou K, Wiens KE, Malembaka EB, Azman AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. medRxiv 2022.11.25.22282776. [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}
 

@@ -13,4 +13,4 @@ Our fully-funded PhD position has been filled. If you have your own funding (e.g
 We are currently looking for 1-2 part-time research assistants with strong quantitative and coding skills to contribute to research projects focused on cholera epidemiology. [Learn more and apply](/assets/documents/RA_IDEpi_Temple_2023.pdf)
 
 ## Undergraduate students 
-When student worker positions are available we'll post them here. We don't accept volunteers, but Public Health majors can apply to complete their 300-hour internship with our group.
+We have exciting opportunities to develop skills in infectious disease epidemiology and research through Temple's Bachelor of Science in Public Health Internship Program. [Learn more and apply](/assets/documents/Temple_BSPH_Internship_IDEpi.pdf)

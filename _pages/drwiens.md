@@ -35,7 +35,7 @@ Right now, I'm working on some really cool collaborative projects to look at how
 #### Systematic review & meta-analysis of cholera positivity
 We found that about half of suspected cholera cases that are seen by medical professionals are actually infected with the <i>Vibrio cholerae</i> bacteria. This number varies depending on the local study context. We took into account how the study was conducted and the fact that diagnostic tests aren't always perfect.
 
-<a href="https://www.medrxiv.org/content/10.1101/2022.10.05.22280736v2" class="image" target="_blank"><img src="/assets/images/kirsten_wiens_cholera_positivity.png" alt="" width = "75%"/>
+<a href="https://doi.org/10.1371/journal.pmed.1004286" class="image" target="_blank"><img src="/assets/images/kirsten_wiens_cholera_positivity.png" alt="" width = "75%"/>
 
 #### SARS-CoV-2 seroprevalence in Juba, South Sudan
 I led analysis of a SARS-CoV-2 serosurvey conducted by the Ministry of Health and WHO in Juba. By measuring antibodies in the blood, we found that more people had been exposed to the virus than previously thought. We also showed the importance of validating antibody tests locally and for mild infections.

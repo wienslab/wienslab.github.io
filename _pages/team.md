@@ -29,7 +29,7 @@ Email: [cameron.smithers@temple.edu](mailto:cameron.smithers@temple.edu)
 
 <img src="/assets/images/MarissaMiller.jpeg" width="40%" title="Marissa Miller Photo">
 
-__Marissa Miller, BPH__ <br>
+__Marissa Miller, BS__ <br>
 Research Assistant <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
