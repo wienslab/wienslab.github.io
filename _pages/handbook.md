@@ -30,13 +30,17 @@ __Writing code__: Lab members working on quantitative projects are welcome to co
 
 * Lessons for all levels in [Codecademy](https://www.codecademy.com/catalog/language/r){:target="_blank"}
 * Beginner data wrangling in [R for Data Analysis](https://trevorfrench.github.io/R-for-Data-Analysis/){:target="_blank"}
-* Primer and great reference for applied epidemiology in [The Epidemiologist R Handbook](https://epirhandbook.com/en/#r-for-applied-epidemiology-and-public-health){:target="_blank"}
+* Tutorials and detailed reference for applied epidemiology in [The Epidemiologist R Handbook](https://epirhandbook.com/en/#r-for-applied-epidemiology-and-public-health){:target="_blank"}
 
 As part of open and reproducible science, I expect lab members who are coding to learn and use GitHub ([GitHub’s starting guide](https://docs.github.com/en/get-started){:target="_blank"} is great). We have a [Wiens Lab GitHub page](https://github.com/wienslab){:target="_blank"} where we fork and keep track of all project-specific code. 
 
 __Writing manuscripts__: I love writing! But not everyone does. My number one piece of advice for lab members is to just get started. Your first draft will be rough and that is OK. With practice, you’ll get better (and faster) at it. 
 
-My second piece of advice is to start with a good outline. Whether you’re writing a full scientific manuscript, a manuscript section, or a short report, we’ll send your outline back and forth a few times before I give you the green light to flesh it out.
+My second piece of advice is to start with a good outline. Whether you’re writing a full scientific manuscript, a manuscript section, or a short report, we’ll send your outline back and forth a few times before you start working on the full version.
+
+__Using generative AI__: Artificial intelligence (AI) tools like ChatGPT can be powerful resources when used ethically and transparently. They can strengthen one’s own work and save time, but should not be used to create original ideas or outsource one's thinking. 
+
+Marissa Miller put together a detailed document on best practices in our lab and freely available AI tools that can support different aspects of research: [Notes and Guidelines on Ethical AI Use](/assets/documents/AI_Guidelines_Notes_WiensLab.pdf){:target="_blank"}
 
 __Presenting__: Public speaking is daunting for many people (myself included), and so I encourage lab members to take time to practice and get feedback on presentations. Here are some resources:
 
