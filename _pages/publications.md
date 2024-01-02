@@ -6,6 +6,10 @@ title: "Publications"
 <img src="/assets/images/kirsten_wiens_covid_schools.gif" width="39%">
 <img src="/assets/images/kirsten_wiens_sarscov2_juba.jpg" width="59%">
 
+### In Press
+
+Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Estimating the gap between clinical cholera and true community infections: findings from an integrated surveillance study in an endemic region of Bangladesh. Nature Medicine. Preprint: [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}. _†Joint first authors_
+
 ### 2023
 
 Wiens KE, Xu H, Zou K, Mwaba J, Lessler J, Malembaka EB, Demby MN, Bwire G, Qadri F, Lee EC, Azman AS. (2023). Estimating the proportion of clinically suspected cholera cases that are true Vibrio cholerae infections: A systematic review and meta-analysis. PLOS Medicine. 2023(20):e1004286. [https://doi.org/10.1371/journal.pmed.1004286](https://doi.org/10.1371/journal.pmed.1004286){:target="_blank"}
@@ -99,5 +103,3 @@ Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, V
 ### Pre-prints
 
 Xu H, Zou K, Wiens KE, Malembaka EB, Azman AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. medRxiv 2022.11.25.22282776. [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}
-
-Hegde ST, Khan AI, Perez-Saez J, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Estimating the gap between clinical cholera and true community infections: findings from an integrated surveillance study in an endemic region of Bangladesh. medRxiv 2023.07.18.23292836. [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}

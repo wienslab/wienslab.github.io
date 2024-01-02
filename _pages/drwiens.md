@@ -8,7 +8,7 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "/assets/documents/KirstenWiens_CV_Aug2023.pdf"
+      url: "/assets/documents/KirstenWiens_CV_Jan2024.pdf"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=DI2b1KwAAAAJ&view_op=list_works&sortby=pubdate"
