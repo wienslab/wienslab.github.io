@@ -8,7 +8,7 @@ title: "Publications"
 
 ### In Press
 
-Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Estimating the gap between clinical cholera and true community infections: findings from an integrated surveillance study in an endemic region of Bangladesh. Nature Medicine. Preprint: [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}. _†Joint first authors_
+Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Clinical surveillance systems obscure the true cholera infection burden in an endemic region. Nature Medicine. Preprint: [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}. _†Joint first authors_
 
 ### 2023
 
