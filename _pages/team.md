@@ -5,11 +5,10 @@ title: "Team"
 
 ## Lab members
 
-<img src="/assets/images/CecirahimSesay.jpeg" width="60%" title="Cecirahim Sesay Photo">
+<img src="/assets/images/CecirahimSesay.jpeg" width="40%" title="Cecirahim Sesay Photo">
 
 __Cecirahim Sesay, MPH__ <br>
 PhD Student <br>
-Graduate Research Assistant <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
 Email: [cecirahim.sesay@temple.edu](mailto:cecirahim.sesay@temple.edu)
@@ -23,6 +22,28 @@ Research Assistant <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
 Email: [marissa.miller0002@temple.edu](mailto:marissa.miller0002@temple.edu)
+
+<br>
+
+<img src="/assets/images/SkyeHilbert.jpeg" width="40%" title="Skye Hilbert Photo">
+
+__Skye Hilbert__ <br>
+Research Intern <br>
+Department of Epidemiology and Biostatistics <br>
+Temple University College of Public Health <br>
+Email: [skye.hilbert@temple.edu](mailto:skye.hilbert@temple.edu)
+
+<br>
+
+## Temple collaborators
+
+<img src="/assets/images/SezginCiftci.jpg" width="40%" title="Sezgin Ciftci Photo">
+
+__Sezgin Ciftci, PhD__ <br>
+Assistant Professor of Instruction <br>
+Department of Epidemiology and Biostatistics <br>
+Temple University College of Public Health <br>
+Email: [sezgin.ciftci@temple.edu](mailto:sezgin.ciftci@temple.edu)
 
 <br>
 
