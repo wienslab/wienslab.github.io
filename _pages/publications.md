@@ -8,6 +8,8 @@ title: "Publications"
 
 ### In Press
 
+Xu H, Zou K, Wiens KE, Malembaka EB, Azman AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. Nature Medicine. Preprint: [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}.
+
 Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Clinical surveillance systems obscure the true cholera infection burden in an endemic region. Nature Medicine. Preprint: [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}. _†Joint first authors_
 
 ### 2023
@@ -99,7 +101,3 @@ Wiens KE, Crispo E, Chapman LJ. (2014). Phenotypic plasticity is maintained desp
 Wiens KE, Swaminathan H, Copin R, Lun DS, Ernst JD. (2013). Equivalent T cell epitope promiscuity in ecologically diverse human pathogens. PLOS One. 8(8):e73124. [https://doi.org/10.1371/journal.pone.0073124](https://doi.org/10.1371/journal.pone.0073124){:target="_blank"} 
 
 Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, Vujkovic-Cvijin, Kim CC, Yarovinsky F, Nicholas WL, McCune JM, Loke P. (2012). Therapeutic helminth infection of macaques with idiopathic chronic diarrhea alters the inflammatory signature and mucosal microbiota of the colon. PLOS Pathogens. 8(11):e1003000. [https://doi.org/10.1371/journal.ppat.1003000](https://doi.org/10.1371/journal.ppat.1003000){:target="_blank"}
-
-### Pre-prints
-
-Xu H, Zou K, Wiens KE, Malembaka EB, Azman AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. medRxiv 2022.11.25.22282776. [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}
