@@ -5,16 +5,6 @@ title: "Team"
 
 ## Lab members
 
-<img src="/assets/images/CecirahimSesay.jpeg" width="40%" title="Cecirahim Sesay Photo">
-
-__Cecirahim Sesay, MPH__ <br>
-PhD Student <br>
-Department of Epidemiology and Biostatistics <br>
-Temple University College of Public Health <br>
-Email: [cecirahim.sesay@temple.edu](mailto:cecirahim.sesay@temple.edu)
-
-<br>
-
 <img src="/assets/images/MarissaMiller.jpeg" width="40%" title="Marissa Miller Photo">
 
 __Marissa Miller, BS__ <br>
