@@ -8,7 +8,7 @@ title: "Team"
 <img src="/assets/images/MarissaMiller.jpeg" width="40%" title="Marissa Miller Photo">
 
 __Marissa Miller, BS__ <br>
-Research Assistant <br>
+Research Associate <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
 Email: [marissa.miller0002@temple.edu](mailto:marissa.miller0002@temple.edu)
@@ -17,8 +17,8 @@ Email: [marissa.miller0002@temple.edu](mailto:marissa.miller0002@temple.edu)
 
 <img src="/assets/images/SkyeHilbert.jpeg" width="40%" title="Skye Hilbert Photo">
 
-__Skye Hilbert__ <br>
-Research Intern <br>
+__Skye Hilbert, BS__ <br>
+Research Assistant <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
 Email: [skye.hilbert@temple.edu](mailto:skye.hilbert@temple.edu)

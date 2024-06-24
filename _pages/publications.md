@@ -6,11 +6,11 @@ title: "Publications"
 <img src="/assets/images/kirsten_wiens_covid_schools.gif" width="39%">
 <img src="/assets/images/kirsten_wiens_sarscov2_juba.jpg" width="59%">
 
-### In Press
+### 2024
 
-Xu H, Zou K, Wiens KE, Malembaka EB, Azman AS, Lee EC. Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. Nature Medicine. Preprint: [https://doi.org/10.1101/2022.11.25.22282776](https://doi.org/10.1101/2022.11.25.22282776){:target="_blank"}.
+Xu H, Zou K, Wiens KE, Malembaka EB, Azman, AS, Lee EC. (2024). Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. Nature Medicine. 30(4):1104-1110. [https://doi.org/10.1038/s41591-024-02852-8](https://doi.org/10.1038/s41591-024-02852-8){:target="_blank"}.
 
-Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. Clinical surveillance systems obscure the true cholera infection burden in an endemic region. Nature Medicine. Preprint: [https://doi.org/10.1101/2023.07.18.23292836](https://doi.org/10.1101/2023.07.18.23292836){:target="_blank"}. _†Joint first authors_
+Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. (2024). Clinical surveillance systems obscure the true cholera infection burden in an endemic region. Nature Medicine. 30(3):888-895. [https://doi.org/10.1038/s41591-024-02810-4](https://doi.org/10.1038/s41591-024-02810-4){:target="_blank"}. _†Joint first authors_
 
 ### 2023
 
