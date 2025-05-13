@@ -6,6 +6,10 @@ title: "Publications"
 <img src="/assets/images/kirsten_wiens_covid_schools.gif" width="39%">
 <img src="/assets/images/kirsten_wiens_sarscov2_juba.jpg" width="59%">
 
+### 2025
+
+Wiens KE, Miller MH, Costello DJ, Solomon AP, Hilbert SM, Shipper AG, Lee EC, Azman AS. (2025). Care seeking for diarrheal illness: a systematic review and meta-analysis. PLOS Global Public Health. 2025;5: e0004483. [https://doi.org/10.1371/journal.pgph.0004483](https://doi.org/10.1371/journal.pgph.0004483){:target="_blank"}.
+
 ### 2024
 
 Xu H, Zou K, Wiens KE, Malembaka EB, Azman, AS, Lee EC. (2024). Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. Nature Medicine. 30(4):1104-1110. [https://doi.org/10.1038/s41591-024-02852-8](https://doi.org/10.1038/s41591-024-02852-8){:target="_blank"}.
