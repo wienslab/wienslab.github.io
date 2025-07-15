@@ -105,3 +105,7 @@ Wiens KE, Crispo E, Chapman LJ. (2014). Phenotypic plasticity is maintained desp
 Wiens KE, Swaminathan H, Copin R, Lun DS, Ernst JD. (2013). Equivalent T cell epitope promiscuity in ecologically diverse human pathogens. PLOS One. 8(8):e73124. [https://doi.org/10.1371/journal.pone.0073124](https://doi.org/10.1371/journal.pone.0073124){:target="_blank"} 
 
 Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, Vujkovic-Cvijin, Kim CC, Yarovinsky F, Nicholas WL, McCune JM, Loke P. (2012). Therapeutic helminth infection of macaques with idiopathic chronic diarrhea alters the inflammatory signature and mucosal microbiota of the colon. PLOS Pathogens. 8(11):e1003000. [https://doi.org/10.1371/journal.ppat.1003000](https://doi.org/10.1371/journal.ppat.1003000){:target="_blank"}
+
+### Pre-prints
+
+Miller MH, Hilbert SM, Rosser EN, Sinko L, Lee EC, Wiens KE. Understanding influences of care-seeking behaviors for diarrheal illnesses: A qualitative meta-synthesis. medRxiv 2025.07.08.25331122. [https://doi.org/10.1101/2025.07.08.25331122](https://doi.org/10.1101/2025.07.08.25331122){:target="_blank"}
