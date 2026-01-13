@@ -6,13 +6,19 @@ title: "Publications"
 <img src="/assets/images/kirsten_wiens_covid_schools.gif" width="39%">
 <img src="/assets/images/kirsten_wiens_sarscov2_juba.jpg" width="59%">
 
+### In Press
+
+Miller MH, Hilbert SM, Rosser EN, Sinko L, Lee EC, Wiens KE. (In Press). Understanding influences of care-seeking behaviors for diarrheal illnesses: a qualitative meta-synthesis. BMJ Open. Pre-print: [https://doi.org/10.1101/2025.07.08.25331122](https://doi.org/10.1101/2025.07.08.25331122){:target="_blank"}
+
 ### 2025
 
-Wiens KE, Miller MH, Costello DJ, Solomon AP, Hilbert SM, Shipper AG, Lee EC, Azman AS. (2025). Care seeking for diarrheal illness: a systematic review and meta-analysis. PLOS Global Public Health. 2025;5: e0004483. [https://doi.org/10.1371/journal.pgph.0004483](https://doi.org/10.1371/journal.pgph.0004483){:target="_blank"}.
+Pampati S, Stuart EA, Lessler J, Wiens KE, Waller LA, Lopman B, Guest JL, Grabowski MK, Jones J. (2025). Impact of school-based infection prevention strategies on household COVID-19 and respiratory disease outcomes: A cross-sectional study. Annals of Epidemiology. 112:76–83. [https://doi.org/10.1016/j.annepidem.2025.10.019](https://doi.org/10.1016/j.annepidem.2025.10.019){:target="_blank"}
+
+Wiens KE, Miller MH, Costello DJ, Solomon AP, Hilbert SM, Shipper AG, Lee EC, Azman AS. (2025). Care seeking for diarrheal illness: a systematic review and meta-analysis. PLOS Global Public Health. 2025;5: e0004483. [https://doi.org/10.1371/journal.pgph.0004483](https://doi.org/10.1371/journal.pgph.0004483){:target="_blank"}
 
 ### 2024
 
-Xu H, Zou K, Wiens KE, Malembaka EB, Azman, AS, Lee EC. (2024). Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. Nature Medicine. 30(4):1104-1110. [https://doi.org/10.1038/s41591-024-02852-8](https://doi.org/10.1038/s41591-024-02852-8){:target="_blank"}.
+Xu H, Zou K, Wiens KE, Malembaka EB, Azman, AS, Lee EC. (2024). Enhanced cholera surveillance as a tool for improving vaccination campaign efficiency. Nature Medicine. 30(4):1104-1110. [https://doi.org/10.1038/s41591-024-02852-8](https://doi.org/10.1038/s41591-024-02852-8){:target="_blank"}
 
 Hegde ST†, Khan AI†, Perez-Saez J†, Khan II, Dent Hulse J, Islam MT, Khan ZH, Ahmed S, Bertuna T, Rashid M, Rashid R, Hossain MZ, Shirin T, Wiens KE, Gurley ES, Bhuiyan TR, Qadri F, Azman AS. (2024). Clinical surveillance systems obscure the true cholera infection burden in an endemic region. Nature Medicine. 30(3):888-895. [https://doi.org/10.1038/s41591-024-02810-4](https://doi.org/10.1038/s41591-024-02810-4){:target="_blank"}. _†Joint first authors_
 
@@ -108,4 +114,4 @@ Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, V
 
 ### Pre-prints
 
-Miller MH, Hilbert SM, Rosser EN, Sinko L, Lee EC, Wiens KE. Understanding influences of care-seeking behaviors for diarrheal illnesses: A qualitative meta-synthesis. medRxiv 2025.07.08.25331122. [https://doi.org/10.1101/2025.07.08.25331122](https://doi.org/10.1101/2025.07.08.25331122){:target="_blank"}
+Smith CP, Lessler J, Hegde ST, Bhuiyan TR, Islam T, Ahmmed F, Chowdhury F, Khan AI, LaRocque RC, Charles RC, Weil AA, Calderwood SB, Ryan ET, Harris JB, Azman AS, Qadri F,  Wiens KE. Estimating the transmission potential of symptomatic and asymptomatic cholera cases from household microbiological and clinical data. medRxiv 2026.01.09.26343785. doi: [https://doi.org/10.64898/2026.01.09.26343785](https://doi.org/10.64898/2026.01.09.26343785){:target="_blank"}
