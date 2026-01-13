@@ -5,23 +5,13 @@ title: "Team"
 
 ## Lab members
 
-<img src="/assets/images/MarissaMiller.jpeg" width="40%" title="Marissa Miller Photo">
+<img src="/assets/images/SirmeiseangKeosann.jpeg" width="40%" title="Sirmeiseang Keosann Photo">
 
-__Marissa Miller, BS__ <br>
-Research Associate <br>
+__Sirmeiseang Keosann__ <br>
+Research Intern <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
-Email: [marissa.miller0002@temple.edu](mailto:marissa.miller0002@temple.edu)
-
-<br>
-
-<img src="/assets/images/SkyeHilbert.jpeg" width="40%" title="Skye Hilbert Photo">
-
-__Skye Hilbert, BS__ <br>
-Research Assistant <br>
-Department of Epidemiology and Biostatistics <br>
-Temple University College of Public Health <br>
-Email: [skye.hilbert@temple.edu](mailto:skye.hilbert@temple.edu)
+Email: [sirmeiseang.keosann@temple.edu](mailto:sirmeiseang.keosann@temple.edu)
 
 <br>
 
@@ -39,6 +29,8 @@ Email: [sezgin.ciftci@temple.edu](mailto:sezgin.ciftci@temple.edu)
 
 ## Lab alumni
 
-__Daniel Costello__, MPH Student in Global Health Epidemiology and Disease Control, George Washington University
+__Marissa Miller, BS__, Clinical Research Coordinator, Children's Hospital of Philadelphia
 
-__Ashlynn Solomon__, Clinical Research Coordinator, University of Pennsylvania Health System
+__Daniel Costello, MPH__, Sanitarian, DC Department of Public Health
+
+__Ashlynn Solomon, BS__, Clinical Research Coordinator, University of Pennsylvania Health System

@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 title: "Welcome to the Wiens Lab"
-excerpt: Temple University College of Public Health<br>Department of Epidemiology and Biostatistics
+excerpt: Temple University Barnett College of Public Health<br>Department of Epidemiology and Biostatistics
 header:
   overlay_image: "/assets/images/wienslab_cover.jpg"
   overlay_filter: 0.2

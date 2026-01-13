@@ -4,7 +4,7 @@ title: ""
 author:
   name   : "Kirsten E. Wiens"
   avatar : "/assets/images/KirstenWiens.jpg"
-  bio    : "Assistant Professor <br> Department of Epidemiology and Biostatistics <br> College of Public Health <br> Temple University"
+  bio    : "Assistant Professor <br> Department of Epidemiology and Biostatistics <br> Barnett College of Public Health <br> Temple University"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"
