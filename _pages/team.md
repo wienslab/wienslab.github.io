@@ -31,6 +31,8 @@ Email: [sezgin.ciftci@temple.edu](mailto:sezgin.ciftci@temple.edu)
 
 __Marissa Miller, BS__, Clinical Research Coordinator, Children's Hospital of Philadelphia
 
+__Skye Hilbert, BS__, Associate Degree in Nursing (ADN) Student, Bucks County Community College
+
 __Daniel Costello, MPH__, Sanitarian, DC Department of Public Health
 
 __Ashlynn Solomon, BS__, Clinical Research Coordinator, University of Pennsylvania Health System
