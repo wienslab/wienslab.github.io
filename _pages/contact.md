@@ -3,19 +3,19 @@ permalink: /contact/
 title: ""
 ---
 
-<img src="/assets/images/RitterAnnex_9thFloor.jpeg" width="100%" alt="Photo of the view looking towards downtown Philadelphia at sunset from the Department of Epidemiology and Biostatistics, Temple University">
+<img src="/assets/images/PaleyHall.jpg" width="100%" alt="Photo of Paley Hall, Temple University Barnett College of Public Health">
 
 ## Contact
 
 **Kirsten E. Wiens, PhD**<br/>
-Office: Ritter Annex 911<br/>
+Office: Paley Hall 385F<br/>
 Phone: +1 (215) 204-5105<br/>
 Email: [kirsten.wiens@temple.edu](mailto:kirsten.wiens@temple.edu)<br/>
 
 **Department of Epidemiology and Biostatistics**<br/>
-Temple University College of Public Health<br/>
-1301 Cecil B. Moore Avenue<br/>
-Ritter Hall Annex, 9th floor<br/>
+Temple University Barnett College of Public Health<br/>
+1210 W. Berks St.<br/>
+Paley Hall, 3rd Floor<br/>
 Philadelphia, PA 19122<br/>
 
 ## Information for interested students

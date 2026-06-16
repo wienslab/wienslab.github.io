@@ -19,17 +19,12 @@ __Working hours__: Lab members can set their own in-person/remote and hourly sch
 
 __Communication__: We use Microsoft Teams and email for electronic lab communication. Lab members are also welcome to stop by my office to say hello or with a question whenever my door is open.
 
-__Social activities & celebrations__: We occasionally have dinners, happy hours, or picnics just because or to celebrate milestones. These are optional and I welcome suggestions for new activities!
-
-__Community service & outreach__: Giving back to our local communities is an important part of our work in public health. All lab members participate in [community service or outreach activities](https://cph.temple.edu/community-clinics/community-engaged-research-and-practice/upcoming-and-past-events){:target="_blank"}, such as the College of Public Health's __Give Back Day__ where we volunteer with organizations making an impact here in North Philly.
-
-
 ## Resources
 
 __Writing code__: Lab members working on quantitative projects are welcome to code in the programming language that they are most comfortable with. I code in R and learned it on-the-job, so I'm very supportive of lab members taking the time to learn it. Here are some free resources for getting started:
 
 * Lessons for all levels in [Codecademy](https://www.codecademy.com/catalog/language/r){:target="_blank"}
-* Beginner data wrangling in [R for Data Analysis](https://trevorfrench.github.io/R-for-Data-Analysis/){:target="_blank"}
+* Getting started in R/RStudio with [Swirl (R package)](https://swirlstats.com/){:target="_blank"}
 * Tutorials and detailed reference for applied epidemiology in [The Epidemiologist R Handbook](https://epirhandbook.com/en/#r-for-applied-epidemiology-and-public-health){:target="_blank"}
 
 As part of open and reproducible science, I expect lab members who are coding to learn and use GitHub ([GitHub’s starting guide](https://docs.github.com/en/get-started){:target="_blank"} is great). We have a [Wiens Lab GitHub page](https://github.com/wienslab){:target="_blank"} where we fork and keep track of all project-specific code. 
