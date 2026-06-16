@@ -6,9 +6,11 @@ title: "Publications"
 <img src="/assets/images/kirsten_wiens_covid_schools.gif" width="39%">
 <img src="/assets/images/kirsten_wiens_sarscov2_juba.jpg" width="59%">
 
-### In Press
+### 2026
 
-Miller MH, Hilbert SM, Rosser EN, Sinko L, Lee EC, Wiens KE. (In Press). Understanding influences of care-seeking behaviors for diarrheal illnesses: a qualitative meta-synthesis. BMJ Open. Pre-print: [https://doi.org/10.1101/2025.07.08.25331122](https://doi.org/10.1101/2025.07.08.25331122){:target="_blank"}
+Smith CP, Lessler J, Hegde ST, Bhuiyan TR, Islam T, Ahmmed F, Chowdhury F, Khan AI, LaRocque RC, Charles RC, Weil AA, Calderwood SB, Ryan ET, Harris JB, Azman AS, Qadri F, Wiens KE. Estimating the transmission potential of symptomatic and asymptomatic cholera cases from household microbiological and clinical data. The Journal of Infectious Diseases. [https://doi.org/10.1093/infdis/jiag278 ](https://doi.org/10.1093/infdis/jiag278 ){:target="_blank"}
+
+Miller MH, Hilbert SM, Rosser EN, Sinko L, Lee EC, Wiens KE. (2026). Understanding influences of care-seeking behaviors for diarrheal illnesses: a qualitative meta-synthesis. BMJ Open. 16:e109903. [https://doi.org/10.1136/bmjopen-2025-109903](https://doi.org/10.1136/bmjopen-2025-109903 ){:target="_blank"}
 
 ### 2025
 
@@ -111,7 +113,3 @@ Wiens KE, Crispo E, Chapman LJ. (2014). Phenotypic plasticity is maintained desp
 Wiens KE, Swaminathan H, Copin R, Lun DS, Ernst JD. (2013). Equivalent T cell epitope promiscuity in ecologically diverse human pathogens. PLOS One. 8(8):e73124. [https://doi.org/10.1371/journal.pone.0073124](https://doi.org/10.1371/journal.pone.0073124){:target="_blank"} 
 
 Broadhurst MJ, Ardeshir A, Kanwar B, Mirpuri J, Gundra UM, Leung JM, Wiens KE, Vujkovic-Cvijin, Kim CC, Yarovinsky F, Nicholas WL, McCune JM, Loke P. (2012). Therapeutic helminth infection of macaques with idiopathic chronic diarrhea alters the inflammatory signature and mucosal microbiota of the colon. PLOS Pathogens. 8(11):e1003000. [https://doi.org/10.1371/journal.ppat.1003000](https://doi.org/10.1371/journal.ppat.1003000){:target="_blank"}
-
-### Pre-prints
-
-Smith CP, Lessler J, Hegde ST, Bhuiyan TR, Islam T, Ahmmed F, Chowdhury F, Khan AI, LaRocque RC, Charles RC, Weil AA, Calderwood SB, Ryan ET, Harris JB, Azman AS, Qadri F,  Wiens KE. Estimating the transmission potential of symptomatic and asymptomatic cholera cases from household microbiological and clinical data. medRxiv 2026.01.09.26343785. doi: [https://doi.org/10.64898/2026.01.09.26343785](https://doi.org/10.64898/2026.01.09.26343785){:target="_blank"}
