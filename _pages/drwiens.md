@@ -14,7 +14,7 @@ author:
       url: "https://scholar.google.com/citations?hl=en&user=DI2b1KwAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/kirstenwiens"
+      url: "https://linkedin.com/in/kirstenwiens"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kewiens"
