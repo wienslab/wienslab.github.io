@@ -5,15 +5,21 @@ title: "Team"
 
 ## Lab members
 
-<img src="/assets/images/SirmeiseangKeosann.jpeg" width="40%" title="Sirmeiseang Keosann Photo">
+<img src="/assets/images/IbrahimHassanin.jpeg" width="40%" title="Ibrahim Hassanin Photo">
 
-__Sirmeiseang Keosann__ <br>
-Research Intern <br>
+__Ibrahim Hassanin, MPH, MD__ <br>
+PhD Student, Epidemiology <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
-Email: [sirmeiseang.keosann@temple.edu](mailto:sirmeiseang.keosann@temple.edu)
+Email: [ibrahim.hassanin@temple.edu](mailto:ibrahim.hassanin@temple.edu)
 
-<br>
+<img src="/assets/images/ChenzhenZhong.jpeg" width="40%" title="Chenzhen Zhong Photo">
+
+__Chenzhen Zhong, BS__ <br>
+MPH Student, Applied Biostatistics <br>
+Department of Epidemiology and Biostatistics <br>
+Temple University College of Public Health <br>
+Email: [chenzhen.zhong@temple.edu](mailto:chenzhen.zhong@temple.edu)
 
 ## Temple collaborators
 
@@ -24,8 +30,6 @@ Assistant Professor of Instruction <br>
 Department of Epidemiology and Biostatistics <br>
 Temple University College of Public Health <br>
 Email: [sezgin.ciftci@temple.edu](mailto:sezgin.ciftci@temple.edu)
-
-<br>
 
 ## Lab alumni
 

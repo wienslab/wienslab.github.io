@@ -11,7 +11,7 @@ Although we don't currently have an open postdoc position, we are always open to
 We are not accepting PhD students for Fall 2027 enrollment. Please check back next year for future opportunities.
 
 ## MPH and MS students
-We do not have fully-funded Master's RA positions available. We periodically have part-time or fieldwork opportunities. If interested, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) with your CV, including any quantitative or coding skills, and why you want to work with us specifically.
+We do not have Master's RA positions available. If you are a Temple MPH student interested a fieldwork placement, [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) with your CV and why you want to work with us.
 
 ## Undergraduate students 
-We have opportunities for Bachelor of Science in Public Health students to develop skills in infectious disease epidemiology and research through Temple's BSPH Internship Program. [Learn more and apply](/assets/documents/Temple_BSPH_Internship_IDEpi.pdf)
+Temple Bachelor of Science in Public Health students can develop skills in infectious disease epidemiology and research in our lab through Temple's BSPH Internship Program. [Learn more and apply](/assets/documents/Temple_BSPH_Internship_IDEpi.pdf)

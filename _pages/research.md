@@ -11,27 +11,29 @@ Unfortunately, the places that are hit hardest by infectious diseases often also
      :hospital:  barriers to healthcare access <br/>
      🧪  limited testing resources <br/>
 
-In our lab, we focus on better understanding these "unobserved" infections in two main areas of funded research:
+In our lab, we focus on better understanding these "unobserved" infections in two main areas of research:
 
 ### I. Understanding the role of mild & asymptomatic infections in cholera transmission
  
-In this project, we want to learn how much unobserved infections contribute to the spread of cholera. We are working with collaborators in the USA, Bangladesh, and Democratic Republic of the Congo to achieve three specific goals:
+We wanted to learn how much unobserved infections contribute to the spread of cholera. Working with collaborators in the USA, Bangladesh, and Democratic Republic of the Congo, we:
 
 <img src="/assets/images/health_data.png" width="25%" align="left" hspace="20">
-1) Use diverse types of health data (serological, clinical, and care-seeking) together to estimate how many cholera infections go unobserved.<br/>
+1) Used diverse types of health data (serological, clinical, and care-seeking) together to estimate how many cholera infections go unobserved ([Hegde et al, 2024](https://doi.org/10.1038/s41591-024-02810-4){:target="_blank"}).<br/>
 
 <img src="/assets/images/cholera_shedding.png" width="25%" align="left" hspace="20">
-2) Measure the duration of cholera bacteria shedding in individuals with acute watery diarrhea compared to those with mild or asymptomatic infections.
+2) Are characterizing the duration of cholera bacteria shedding in individuals with acute watery diarrhea compared to those with mild or asymptomatic infections.
 
 <img src="/assets/images/hh_transmission.png" width="25%" align="left" hspace="20">
-3) Use statistical transmission models to compare the probability of infection after being exposed to close contacts with symptomatic or asymptomatic cholera. 
+3) Used statistical transmission models to compare the probability of infection from close contacts with symptomatic or asymptomatic cholera ([Smith et al, 2026](https://doi.org/10.1093/infdis/jiag278 ){:target="_blank"}).
 
-### II. Identifying missed cholera & diarrheal cases and barriers to seeking care
+This question remains central to our ongoing work.
 
-We're studying how many people seek medical help when they or their children have diarrhea symptoms. Our findings will help estimate the actual number of cholera cases and make sure resources like vaccines get to the right places.
+### II. Identifying who is missed by surveillance and who is most at risk of severe disease
 
-To achieve this goal, we are conducting a systematic review and meta-analysis, where we will combine information from multiple studies to understand:
-<img src="/assets/images/cholera_surveillance.png" width="55%" align="right" vspace="10">
+We're working to understand the true burden of cholera and <i>Vibrio</i> infections across the spectrum of disease severity so that vaccines, clinical resources, and prevention efforts reach the people who need them most. We are doing this by:
 
-- The proportion of people with diarrhea that don't seek healthcare <br>
-- The reasons why some people may not seek healthcare
+1) Estimating how many people with diarrhea don't seek healthcare at facilities where they are likely to be counted and included in burden estimates, and why ([Wiens et al, 2025](https://doi.org/10.1371/journal.pgph.0004483){:target="_blank"}; [Miller et al, 2026](https://doi.org/10.1136/bmjopen-2025-109903 ){:target="_blank"}).
+
+2) Studying age-specific patterns in cholera burden globally, to help understand the role of childhood cholera in transmission and prevention efforts, including vaccination.
+
+3) Identifying risk factors for severe vibriosis in the USA, and developing county-level tools to predict where and in whom severe outcomes are most likely.

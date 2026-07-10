@@ -8,7 +8,7 @@ title: "Publications"
 
 ### 2026
 
-Smith CP, Lessler J, Hegde ST, Bhuiyan TR, Islam T, Ahmmed F, Chowdhury F, Khan AI, LaRocque RC, Charles RC, Weil AA, Calderwood SB, Ryan ET, Harris JB, Azman AS, Qadri F, Wiens KE. Estimating the transmission potential of symptomatic and asymptomatic cholera cases from household microbiological and clinical data. The Journal of Infectious Diseases. [https://doi.org/10.1093/infdis/jiag278 ](https://doi.org/10.1093/infdis/jiag278 ){:target="_blank"}
+Smith CP, Lessler J, Hegde ST, Bhuiyan TR, Islam T, Ahmmed F, Chowdhury F, Khan AI, LaRocque RC, Charles RC, Weil AA, Calderwood SB, Ryan ET, Harris JB, Azman AS, Qadri F, Wiens KE. Estimating the transmission potential of symptomatic and asymptomatic cholera cases from household microbiological and clinical data. The Journal of Infectious Diseases. [https://doi.org/10.1093/infdis/jiag278](https://doi.org/10.1093/infdis/jiag278 ){:target="_blank"}
 
 Miller MH, Hilbert SM, Rosser EN, Sinko L, Lee EC, Wiens KE. (2026). Understanding influences of care-seeking behaviors for diarrheal illnesses: a qualitative meta-synthesis. BMJ Open. 16:e109903. [https://doi.org/10.1136/bmjopen-2025-109903](https://doi.org/10.1136/bmjopen-2025-109903 ){:target="_blank"}
 

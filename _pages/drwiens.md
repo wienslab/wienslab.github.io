@@ -8,13 +8,13 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "/assets/documents/WiensKE-CV-Nov25.pdf"
+      url: "/assets/documents/WiensKE-CV-July26.pdf"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=DI2b1KwAAAAJ&view_op=list_works&sortby=pubdate"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KirstenWiens"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/kirstenwiens"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kewiens"
@@ -28,7 +28,7 @@ I'm an infectious disease epidemiologist with a diverse training and research ba
 
 My main research focus is better understanding how infectious diseases spread, even when we don't have perfect surveillance data. To do this, I've used a variety of different methods, like geostatistical models to map out where diarrheal diseases are most prevalent, sero-epidemiology to estimate how many people have been exposed to SARS-CoV-2, and household transmission studies to estimate how likely someone is to get cholera.
 
-Right now, I'm working on some really cool collaborative projects to look at how many cases of cholera might be going unobserved by traditional surveillance systems. That could include mild or asymptomatic cases, cases in people who don't have access to healthcare, or cases that weren't picked up by laboratory tests. If you want to learn more, check out our [research page](/research.md)!
+Right now, I'm working on some really cool collaborative projects to look at how many cholera cases might be going unobserved by passive surveillance systems. That could include mild or asymptomatic cases, cases in people who don't have access to healthcare, or cases that weren't picked up by laboratory tests. If you want to learn more, check out our [research page](/research.md)!
 
 ## Featured past work
 
