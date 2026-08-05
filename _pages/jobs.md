@@ -4,7 +4,8 @@ title: "Join our group!"
 ---
 
 ## Postdoctoral Fellows 
-Although we don't currently have an open postdoc position, we are always open to discussing potential future projects. You are very welcome to [email Kirsten Wiens](mailto:kirsten.wiens@temple.edu) for an informational meeting.
+We're hiring! We have a 1-2 year postdoctoral position available to work on an NIH-funded project focused on vibriosis epidemiology, surveillance, and modeling. [Learn more and apply](/assets/documents/Postdoc_VibrioEpi_Temple_2026.pdf)
+
 <img src="/assets/images/bell_tower.jpg" width="40%" align="right" hspace="30" vspace="20" alt="Photo of campus including the Bell Tower at Temple University">
 
 ## PhD Students

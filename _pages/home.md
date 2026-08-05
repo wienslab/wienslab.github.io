@@ -14,3 +14,5 @@ We use...     :computer:  disease modeling <br/>
                      :earth_asia:  spatial analysis <br/>  
 
 ...to better understand how infectious diseases spread. [Learn more](/research)
+
+We're hiring a postdoc! [Learn more and apply](/assets/documents/Postdoc_VibrioEpi_Temple_2026.pdf)
